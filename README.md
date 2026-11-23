@@ -39,4 +39,5 @@
 Все пособия есть вот тут https://edu.stankin.ru/mod/assign/view.php?id=390689
 
 новое 320_2016_Modelirovanie_predmetnykh_zadach_na_nachalnykh_etapakh_avtomatizatsii_proektnoy_deyatelnosti.pdf
+
 старое  1_НМ.pdf
